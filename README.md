@@ -61,7 +61,6 @@
 <br>
 <br>
 
-<p align="centre"><b>Contador de Visitantes</b></p> 
   
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMatheusMelloDev&s=40&c=2072cb&bg=00000000&no=2&ff=digi&tb=Visitantes%3A&ta=" alt="visits"> </p> 
 <br>
