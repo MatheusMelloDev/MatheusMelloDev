@@ -14,12 +14,12 @@
 <div align="center"> 
   
 <a href="https://www.linkedin.com/in/matheus-mello-a864a12a2/" target="_blank">
-<img align="center" height="70" width="70" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/27ac6fb0-8a28-429f-b26c-2def31d5ac22">
+<img align="center" height="50" width="50" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/27ac6fb0-8a28-429f-b26c-2def31d5ac22">
 
 </a>
 
 <a href="mailto:matehuskbfbv@gmail.com">
-<img align="center"  height="70" width="70" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/665fe5e2-88d1-459e-98e4-463ab85f3730">
+<img align="center"  height="50" width="50" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/665fe5e2-88d1-459e-98e4-463ab85f3730">
 </a>
 
 <h2 align="left">Main Skills:</h2>
@@ -27,9 +27,8 @@
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/c06cdd80-6555-4740-b591-d2f2fc85cbb7">
 
-<img align="left" height="80" width="80" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/05c834df-8ed2-4b60-bad7-b146fefcf56c">
 
-<img align="left" height="80" width="80" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/4088c06f-ea4a-4004-8fc0-ca3236678e44">
+
 
 
 
@@ -48,6 +47,7 @@
 
 <img align="left" height="80" width="80" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/2b8b9f65-eeea-4fcf-addf-24f2d05f693d">
 
+<img align="left" height="80" width="80" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/4088c06f-ea4a-4004-8fc0-ca3236678e44">
 
 <img align="left" height="80" width="80" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/5ce60093-053f-4687-957f-84977c638e75">
 <img align="left" height="80" width="80" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/0cc064b6-3e3e-410c-b966-8d7c42a36023">
