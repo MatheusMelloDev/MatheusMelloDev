@@ -22,17 +22,7 @@
 <img align="center"  height="50" width="50" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/665fe5e2-88d1-459e-98e4-463ab85f3730">
 </a>
 
-<h2 align="left">Main Skills:</h2>
 
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/c06cdd80-6555-4740-b591-d2f2fc85cbb7">
-
-
-
-
-
-
-</div>
 
 <br>
 <br>
@@ -41,6 +31,7 @@
 <h2 align="left">Estudando nesse Momento:</h2>
 
 <div align="left"> 
+  <img align="left" height="84" width="84" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/c06cdd80-6555-4740-b591-d2f2fc85cbb7">
 <img align="left" height="84" width="84" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/abd5cbe4-22c3-4e8e-89df-be42df9c6f30">
 
 <img align="left" height="80" width="80" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/05c834df-8ed2-4b60-bad7-b146fefcf56c">
