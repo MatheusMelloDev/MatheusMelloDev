@@ -3,7 +3,7 @@
 <br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&random=false&width=550&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Matheus+Mello;Sou+Desenvolvedor+Back-end;Seja+Bem-vindo+ao+meu+Github!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&random=false&width=550&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Matheus+Mello;Sou+Desenvolvedor+Em+Formação;Interessado+Em+Especializar-me;Em+Back-end;Seja+Bem-vindo+ao+meu+Github!" alt="Typing SVG" /></a>
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusMelloDev&theme=transparent&border_radius=5&locale=pt_BR" alt="GitHub Streak" /></a>
