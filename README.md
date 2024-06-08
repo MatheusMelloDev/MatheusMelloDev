@@ -40,8 +40,7 @@
 
 <img align="left" height="80" width="80" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/4088c06f-ea4a-4004-8fc0-ca3236678e44">
 
-<img align="left" height="80" width="80" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/5ce60093-053f-4687-957f-84977c638e75">
-<img align="left" height="80" width="80" src="https://github.com/MatheusMelloDev/MatheusMelloDev/assets/165337919/0cc064b6-3e3e-410c-b966-8d7c42a36023">
+
 
 </div>
 
